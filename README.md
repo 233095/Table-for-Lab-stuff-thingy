@@ -1,4 +1,4 @@
-# chemtable
+# ChemStuffIDK
 
 To save the image after making the changes
 just run the program in console or if you 
