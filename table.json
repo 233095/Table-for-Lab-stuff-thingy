@@ -1,0 +1,305 @@
+{
+    "molecules":{
+        "ammonium":{
+            "formula": "NH4",
+            "charge": 1,
+            "molar":18.04,
+            "soluble": true,
+            "shape": "tetrahedral"
+        },
+        "ammonia":{
+            "formula": "NH3",
+            "charge": 0,
+            "molar":17.04,
+            "soluble": false,
+            "shape": "trigonal piramidal"
+        },
+        "hydronium":{
+            "formula": "H3O",
+            "charge": 1,
+            "molar": 19,
+            "soluble": true,
+            "shape": "trigonal piramidal"
+        },
+        "water":{
+            "formula": "H2O",
+            "charge": 0,
+            "molar": 18,
+            "soluble": "N/A",
+            "shape": "bent" 
+        },
+        "Mercuruous":{
+            "formula": "Hg2",
+            "charge": 2,
+            "molar":44.01,
+            "soluble":false,
+            "shape":"linear"
+        },
+        "Aluminum":{
+            "formula":"Al",
+            "charge": 3,
+            "molar":26.93,
+            "soluble":false,
+            "shape":"N/A"
+        },
+        "Barium":{            
+            "formula":"Ba",
+            "charge": 2,
+            "molar":137.33,
+            "soluble":false,
+            "shape":"N/A"  
+        },
+        "Calcium":{
+            "formula":"Ca",
+            "charge": 2,
+            "molar":40.08,
+            "soluble":false,
+            "shape":"N/A"
+        },
+        "Cuprous":{
+            "formula":"Cu",
+            "charge": 1,
+            "molar":63.55,
+            "soluble":true,
+            "shape":"N/A"
+        },
+        "Cupric":{
+            "formula":"Cu",
+            "charge": 2,
+            "molar":63.55,
+            "soluble":true,
+            "shape":"N/A"
+        },
+        "Ferrous":{
+            "formula":"Fe",
+            "charge": 2 ,
+            "molar":55.86,
+            "soluble":false,
+            "shape":"N/A"
+        },
+        "Ferric":{
+            "formula":"Fe",
+            "charge": 3,
+            "molar":55.86,
+            "soluble":false,
+            "shape":"N/A"
+        },
+        "Hydrogen":{
+            "formula":"H",
+            "charge": 1,
+            "molar":1,
+            "soluble":true,
+            "shape":"N/A"
+        },
+        "Lead":{
+            "formula":"Pb",
+            "charge": 2,
+            "molar":207.22,
+            "soluble":false,
+            "shape":"N/A"
+        },
+        "Lithium":{
+            "formula":"Li",
+            "charge": 1,
+            "molar":6.94,
+            "soluble":true,
+            "shape":"N/A"
+        },
+        "Magnesium":{
+            "formula":"Mg",
+            "charge": 2,
+            "molar":24.31,
+            "soluble":false,
+            "shape":"N/A"
+        },
+        "Manganese":{
+            "formula":"Mn",
+            "charge": 2,
+            "molar":54.93,
+            "soluble":true,
+            "shape":"N/A"
+        },
+        "Mercuric":{
+            "formula":"Hg",
+            "charge": 2,
+            "molar":200.59,
+            "soluble":false,
+            "shape":"N/A"
+        },
+        "Nickel":{
+            "formula":"Ni",
+            "charge": 2,
+            "molar":58.69,
+            "soluble":true,
+            "shape":"N/A"
+        },
+        "Potassium":{
+            "formula":"K",
+            "charge": 1,
+            "molar":39.10,
+            "soluble":true,
+            "shape":"N/A"
+        },
+        "Silver":{
+            "formula":"Ag",
+            "charge": 1,
+            "molar":107.87,
+            "soluble":true,
+            "shape":"N/A"
+        },
+        "Sodium":{
+            "formula":"Na",
+            "charge": 1,
+            "molar":22.99,
+            "soluble":true,
+            "shape":"N/A"
+        },
+        "Strontium":{
+            "formula":"Sr",
+            "charge": 2,
+            "molar":87.62,
+            "soluble":false,
+            "shape":"N/A"
+        },
+        "Stabbous":{
+            "formula":"Sn",
+            "charge": 2,
+            "molar":118.71,
+            "soluble":false,
+            "shape":"N/A"
+        },
+        "Stannic":{
+            "formula":"Sn",
+            "charge": 4,
+            "molar":118.71,
+            "soluble":false,
+            "shape":"N/A"
+        },
+        "Zinc":{
+            "formula":"Zn",
+            "charge": 2,
+            "molar":65.38,
+            "soluble":false,
+            "shape":"N/A"
+        },
+        "Acetate":{
+            "formula":"C2H3O2",
+            "charge": -1,
+            "molar":59.00,
+            "soluble":true,
+            "shape":"trigonal planar"
+        },
+        "AceticAcid":{
+            "formula":"CH3CHCOO",
+            "charge": -1,
+            "molar":59.00,
+            "soluble":true,
+            "shape":"trigonal planar"
+        },
+        "Bromide":{
+            "formula":"Br",
+            "charge": -1,
+            "molar":79.90,
+            "soluble":true,
+            "shape":"N/A"
+        },
+        "Carbonate":{
+            "formula":"CO3",
+            "charge": -2,
+            "molar":60.01,
+            "soluble":false,
+            "shape":"trigonal planar"
+        },
+        "Chlorate":{
+            "formula":"ClO3",
+            "charge": -2,
+            "molar":122.55,
+            "soluble":true,
+            "shape":"trigonal planar"
+        },
+        "Chloride":{
+            "formula":"Cl",
+            "charge": -1,
+            "molar":35.45,
+            "soluble":true,
+            "shape":"N/A"
+        },
+        "Chromate":{
+            "formula":"CrO4",
+            "charge": -2,
+            "molar":115.99,
+            "soluble":false,
+            "shape":"tetrahedral"
+        },
+        "Dichromate":{
+            "formula":"Cr2O7",
+            "charge": -2,
+            "molar":294.19,
+            "soluble":true,
+            "shape":"Two Tetrahedral"
+        },
+        "Fluoride":{
+            "formula":"F",
+            "charge": -1,
+            "molar":19.00,
+            "soluble":true,
+            "shape":"N/A"
+        },
+        "Hydroxide":{
+            "formula":"OH",
+            "charge": -1,
+            "molar":17.00,
+            "soluble":false,
+            "shape":"planar"
+        },
+        "Iodide":{
+            "formula":"I",
+            "charge": -1,
+            "molar":126.90,
+            "soluble":true,
+            "shape":"N/A"
+        },
+        "Nitrate":{
+            "formula":"NO3",
+            "charge": -1,
+            "molar":62.01,
+            "soluble":true,
+            "shape":"trigonal planar"
+        },
+        "Oxide":{
+            "formula":"O",
+            "charge": -2,
+            "molar":16.00,
+            "soluble":true,
+            "shape":"N/A"
+        },
+        "Permaganate":{
+            "formula":"MnO4",
+            "charge": -1,
+            "molar":158.03,
+            "soluble":true,
+            "shape":"tetrahedral"
+        },
+        "Phosphate":{
+            "formula":"PO4",
+            "charge": -3,
+            "molar":78.97,
+            "soluble":false,
+            "shape":"trigonal piramidal"
+        },
+        "Sulfate":{
+            "formula":"SO4",
+            "charge": -2,
+            "molar":96.06,
+            "soluble":false,
+            "shape":"tetrahedral"
+        },
+        "Sulfide":{
+            "formula":"S",
+            "charge": 2,
+            "molar":32.06,
+            "soluble":false,
+            "shape":"N/A"
+        }
+    }
+}
